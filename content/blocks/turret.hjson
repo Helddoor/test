@@ -12,7 +12,7 @@ targetAir: true
 targetGround: true
 
 shootType: {
-  type: MissileBulletType
+  type: lancerLaser
   speed: 3
   damage: 3
   bulletWidth: 7
