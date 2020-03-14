@@ -21,7 +21,7 @@ shootType: {
   frontColor: ff0000
   backColor: ff0000
   speed: 10
-  damage: 20
+  damage: 40
   pierce: true
 }
 requirements: [
