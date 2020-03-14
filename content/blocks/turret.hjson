@@ -13,6 +13,7 @@ targetGround: true
 
 shootType: {
   type: BasicBulletType
+  shootSound: laser
   hitSize: 4
   bulletWidth: 4
   bulletHeight: 50
@@ -20,7 +21,7 @@ shootType: {
   frontColor: ff0000,
   backColor: ff0000,
   speed: 10
-  damage: 3
+  damage: 30
   pierce: true
 }
 
