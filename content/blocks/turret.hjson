@@ -28,6 +28,6 @@ requirements: [
   copper/70
   lead/30
   silicon/10
-  metalglass/10
+  metaglass/10
 ]
 category: turret
