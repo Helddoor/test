@@ -11,15 +11,15 @@ inaccuracy: 1
 rotatespeed: 12
 targetAir: true
 targetGround: true
-
+powerUse: 0.5
 shootType: {
   type: BasicBulletType
   hitSize: 4
   bulletWidth: 4
   bulletHeight: 40
   bulletShrink: 0
-  frontColor: ff0000,
-  backColor: ff0000,
+  frontColor: ff0000
+  backColor: ff0000
   speed: 10
   damage: 30
   pierce: true
