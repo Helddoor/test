@@ -1,6 +1,7 @@
 type: ChargeTurret
 name: Laser Turret
 description: long range, precise and allround turret
+sprite: test-turrets-silver
 health: 200
 size: 1
 reload: 120
@@ -15,7 +16,7 @@ shootType: {
   type: BasicBulletType
   hitSize: 4
   bulletWidth: 4
-  bulletHeight: 50
+  bulletHeight: 40
   bulletShrink: 0
   frontColor: ff0000,
   backColor: ff0000,
@@ -23,7 +24,6 @@ shootType: {
   damage: 30
   pierce: true
 }
-
 requirements: [
   copper/70
   lead/30
