@@ -21,7 +21,7 @@ shootType: {
   damage: 3
 }
 */
-shootType: damageLightning
+shootType: meltdownLaser
 
 requirements: [
   copper/70
