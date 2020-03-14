@@ -13,7 +13,7 @@ targetGround: true
 
 shootType: {
   type: BasicBulletType
-  bulletSprite: test-turret-laser
+  bulletSprite: lancerLaser
   speed: 3
   damage: 3
 }
