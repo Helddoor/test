@@ -12,11 +12,12 @@ targetAir: true
 targetGround: true
 
 shootType: {
-  type: BasicBulletType
+  // type: BasicBulletType
+  electric: lancerLaser 
   bulletSprite: bulletSprite
   frontColor: ff0000,
   backColor: ff0000,
-  speed: 3
+  speed: 10
   damage: 3
 }
 
