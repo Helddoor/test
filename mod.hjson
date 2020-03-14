@@ -1,0 +1,6 @@
+name: "example-mod"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "Helddoor"
+description: "New power turret"
+version: "1.0"
+minGameVersion: "103"
