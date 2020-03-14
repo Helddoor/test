@@ -21,7 +21,7 @@ shootType: {
   damage: 3
 }
 */
-shootType: lightning
+shootType: arc
 
 requirements: [
   copper/70
