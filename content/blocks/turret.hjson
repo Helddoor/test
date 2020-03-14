@@ -2,7 +2,7 @@ type: ChargeTurret
 name: "Laser Turret"
 description: "long range, precise and allround turret"
 health: 200
-size: 1
+size: 2
 reload: 40
 range: 400
 ammoUseEffect: lancerLaserShoot
@@ -22,4 +22,3 @@ requirements: [
   copper/70
 ]
 category: turret
-
