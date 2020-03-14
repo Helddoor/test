@@ -3,7 +3,7 @@ name: Laser Turret
 description: long range, precise and allround turret
 health: 200
 size: 2
-reload: 80
+reload: 100
 range: 320
 ammoUseEffect: lancerLaserShoot
 inaccuracy: 1
@@ -13,7 +13,8 @@ targetGround: true
 
 shootType: {
   type: BasicBulletType
-  bulletWidth: 5
+  hitSize: 4
+  bulletWidth: 4
   bulletHeight: 50
   bulletShrink: 0
   frontColor: ff0000,
