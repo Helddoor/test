@@ -11,15 +11,17 @@ rotatespeed: 12
 targetAir: true
 targetGround: true
 
+/*
 shootType: {
-  // type: BasicBulletType
-  electric: lancerLaser 
+  type: BasicBulletType
   bulletSprite: bulletSprite
   frontColor: ff0000,
   backColor: ff0000,
   speed: 10
   damage: 3
 }
+*/
+shootType: lancerLaser
 
 requirements: [
   copper/70
