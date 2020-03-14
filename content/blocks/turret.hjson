@@ -14,8 +14,8 @@ targetGround: true
 shootType: {
   type: BasicBulletType
   bulletSprite: bulletSprite
-  frontColor: #ff0000,
-  backColor: 00ffff,
+  frontColor: ff0000,
+  backColor: ff0000,
   speed: 3
   damage: 3
 }
