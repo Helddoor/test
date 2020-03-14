@@ -11,17 +11,17 @@ rotatespeed: 12
 targetAir: true
 targetGround: true
 
-/*
 shootType: {
   type: BasicBulletType
-  bulletSprite: bulletSprite
+  bulletWidth: 5
+  bulletHeight: 50
+  bulletShrink: 0
   frontColor: ff0000,
   backColor: ff0000,
   speed: 10
   damage: 3
+  pierce: true
 }
-*/
-shootType: meltdownLaser
 
 requirements: [
   copper/70
