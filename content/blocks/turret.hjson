@@ -21,7 +21,7 @@ shootType: {
   damage: 3
 }
 */
-shootType: lancerLaser
+shootType: lightning
 
 requirements: [
   copper/70
