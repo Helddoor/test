@@ -2,7 +2,7 @@ type: ChargeTurret
 name: Laser Turret
 description: long range, precise and allround turret
 health: 200
-size: 2
+size: 1
 reload: 120
 range: 320
 shootSound: laser
@@ -26,5 +26,7 @@ shootType: {
 
 requirements: [
   copper/70
+  lead/30
+  silicon/10
 ]
 category: turret
